@@ -43,7 +43,7 @@ class App extends Component {
             disabled={false} />
         </div>
       </main>
-      <footer>It's like hangman, but, um... backwards or something.</footer>
+      <footer>It's like hangman, but, um... backwards or something!!!!</footer>
     </div>
   }
 }
